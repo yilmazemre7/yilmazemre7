@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Emre From Turkey,and I do content
-
-
+I'm Emre from Turkey, I work on backend technologies and I'm trying to improve my skills in this field.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emreyilmazcn) 
